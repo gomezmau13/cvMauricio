@@ -1,2 +1,3 @@
-# cvMauricio
-es mi primer repositorio
+# CV Mauricio Gomez
+# es mi primer repositorio
+
